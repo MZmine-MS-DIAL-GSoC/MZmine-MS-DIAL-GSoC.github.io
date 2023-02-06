@@ -1,4 +1,4 @@
-Visit the [MZmine](https://www.mzmine.org/) and [MS-DIAL](http://prime.psc.riken.jp/compms/msdial/main.html) websites.
+Visit the [MZmine](https://www.mzmine.org/) ([source](https://github.com/mzmine/mzmine3)) and [MS-DIAL](http://prime.psc.riken.jp/compms/msdial/main.html) websites.
 
 # MZmine and MS-DIAL
 The two software tools are fueling scientific data analysis of multidimensional mass spectrometry data. Working together on collaborative projects in the past, our teams are now joining together for Google Summer of Code. Previous collaborative publications include:
