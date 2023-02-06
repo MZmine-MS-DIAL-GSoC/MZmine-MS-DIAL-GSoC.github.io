@@ -1,0 +1,9 @@
+theme: jekyll-theme-slate
+
+title: MZmine and MS-DIAL collaboration
+description: Google Summer of Code projects
+show_downloads: false 
+
+github:
+  repository_url: https://github.com/MZmine-MS-DIAL-GSoC/
+  owner_name: MZmine and MS-DIAL projects
