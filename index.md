@@ -30,7 +30,7 @@ Please check out Google's [FAQ](https://developers.google.com/open-source/gsoc/f
 
 # Project ideas
 
-## Mentored by MZmine
+## Projects mentored by MZmine
 
 ### Mass Spectrometry Query Language Integration
 Brief explanation: Develop support for the Mass Spectrometry Query Language (MassQL) in MZmine. MassQL is a simplified way for users to query for signals and patterns in complex mass spectrometry data across millions of mass spectra. In the first step, the MassQL web API will parse queries into json representations to filter and visualize mass spectrometry data in MZmine. In a second step, a java library should implement a parser and engine to handle MassQL queries and drive further development in MZmine.
@@ -50,6 +50,6 @@ Prerequisites: Java, JavaFX
 Possible mentor: [Tomas Pluskal](https://github.com/tomas-pluskal)
 
 
-## Mentored by MS-DIAL
+## Projects mentored by MS-DIAL
 
 
