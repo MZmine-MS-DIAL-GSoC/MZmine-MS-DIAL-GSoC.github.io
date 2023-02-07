@@ -52,4 +52,13 @@ Possible mentor: [Tomas Pluskal](https://github.com/tomas-pluskal)
 
 ## Projects mentored by MS-DIAL
 
+### Exporter migration from version 4 to 5
+Brief explanation: Develop exporter support for MS-DIAL version 5. The predecessor version 4 had exporters to connect to many other data formats and databases after processing the raw MS data, but the latest version 5 doesn't implement them yet.
+The idea is to 1) export function for the MRMPROBS library 2) mztab-M exporter 3) format exporter for MassBank and MGF files.
+
+Expected project size: 175 hour
+Difficulty: easy
+Prerequisites: C#, .Net
+Possible mentor: [Yuki Matsuzawa](https://github.com/YukiMatsuzawa), [Hiroshi Tsugawa](https://github.com/htsugawa)
+
 
