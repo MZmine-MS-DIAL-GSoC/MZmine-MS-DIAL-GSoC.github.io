@@ -32,12 +32,21 @@ Please check out Google's [FAQ](https://developers.google.com/open-source/gsoc/f
 
 ## Projects mentored by MZmine
 
+### Molecular networking support
+Brief explanation: Molecular networking connects mass spectral fingerprints by various similarity metrics creating multi-layered graphs. This technology is changing how chemical compound discovery is done nowadays. MZmine supports various similarity metrics and interactive visualization. This project shall extend the network analysis and visualization options by options to filter and collopse based on graph topology.   
+
+Expected project size: 175 or 350 hour
+Expected outcome: Interactive visualization of thousands of chemical compounds and their fingerprint similarities, made digestable by topological filtering.
+Difficulty: easy
+Prerequisites: Java, JavaFX
+Possible mentor: [Robin Schmid](https://github.com/robinschmid)
+
 ### Mass Spectrometry Query Language Integration
 Brief explanation: Develop support for the Mass Spectrometry Query Language (MassQL) in MZmine. MassQL is a simplified way for users to query for signals and patterns in complex mass spectrometry data across millions of mass spectra. In the first step, the MassQL web API will parse queries into json representations to filter and visualize mass spectrometry data in MZmine. In a second step, a java library should implement a parser and engine to handle MassQL queries and drive further development in MZmine.
 
 Expected project size: 175 or 350 hour
 Expected outcome: Advanced query options for mass spectrometry data, JavaFX user interfaces
-Difficulty: easy
+Difficulty: medium
 Prerequisites: Java, JavaFX
 Possible mentor: [Robin Schmid](https://github.com/robinschmid)
 
@@ -45,6 +54,7 @@ Possible mentor: [Robin Schmid](https://github.com/robinschmid)
 Brief explanation: Implement new JavaFX-based visualization modules for MZmine such as Cloud Plot and Robust Volcano Plot. This project requires active use of JavaFX and chart plotting libraries - we mostly use JFreeChart.
 
 Expected project size: 175 hour
+Expected outcome: The contributer will get a deeper understanding of mass spectrometry data and data structures. The MZmine community will gain new data analysis tools readily integrated with other charts and views. 
 Difficulty: easy
 Prerequisites: Java, JavaFX
 Possible mentor: [Tomas Pluskal](https://github.com/tomas-pluskal)
