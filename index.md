@@ -52,4 +52,22 @@ Possible mentor: [Tomas Pluskal](https://github.com/tomas-pluskal)
 
 ## Projects mentored by MS-DIAL
 
+### Exporter migration from version 4 to 5
+Brief explanation:  Development of exporter support for MS-DIAL version 5. The previous version 4 had exporters to connect to many other data formats and databases after processing the raw MS data, but the latest version 5 doesn't implement them yet.
+The idea is to have 1) an export function for the MRMPROBS library 2) an mztab-M exporter 3) a format exporter for MassBank and MGF files.
+
+Expected project size: 175 hour
+Difficulty: easy
+Prerequisites: C#, .Net
+Possible mentor: [Yuki Matsuzawa](https://github.com/YukiMatsuzawa), [Hiroshi Tsugawa](https://github.com/htsugawa)
+
+### Network visualization automation with MS-DIAL 5 and Cytoscape
+
+Brief explanation: MS/MS similarity and metabolite profile correlations can be calculated from the MS-DIAL output.
+The idea is to develop a visualisation workflow for MS-DIAL 5 that implements a function to generate data for such network visualisation and passes it to the network visualisation software [Cytoscape](https://cytoscape.org/).
+
+Expected project size: 175 hour
+Difficulty: easy
+Prerequisites: C#, .Net
+Possible mentor: [Kozo Nishida](https://github.com/kozo2), [Hiroshi Tsugawa](https://github.com/htsugawa)
 
