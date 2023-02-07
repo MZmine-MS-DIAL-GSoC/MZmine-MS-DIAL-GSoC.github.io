@@ -61,4 +61,13 @@ Difficulty: easy
 Prerequisites: C#, .Net
 Possible mentor: [Yuki Matsuzawa](https://github.com/YukiMatsuzawa), [Hiroshi Tsugawa](https://github.com/htsugawa)
 
+### Network visualization automation with MS-DIAL 5 and Cytoscape
+
+Brief explanation: From the MS-DIAL output, MS/MS similarity and metabolite profile correlations can be calculated.
+This idea is to develop a visualisation workflow for MS-DIAL 5 that implements a function to create data for such network visualisation and passes it to the network visualisation software Cytoscape.
+
+Expected project size: 175 hour
+Difficulty: easy
+Prerequisites: C#, .Net
+Possible mentor: [Kozo Nishida](https://github.com/YukiMatsuzawa), [Hiroshi Tsugawa](https://github.com/htsugawa)
 
