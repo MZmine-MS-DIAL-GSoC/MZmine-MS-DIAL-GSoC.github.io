@@ -73,7 +73,7 @@ Possible mentor: [Yuki Matsuzawa](https://github.com/YukiMatsuzawa), [Hiroshi Ts
 
 ### Network visualization automation with MS-DIAL 5 and Cytoscape
 
-Brief explanation: MS/MS similarity and metabolite profile correlations can be calculated from the MS-DIAL output.
+Brief explanation: MS/MS similarity and metabolite profile correlations are calculated as the MS-DIAL output to be used in cytoscape.
 The idea is to develop a visualisation workflow for MS-DIAL 5 that implements a function to generate data for such network visualisation and passes it to the network visualisation software [Cytoscape](https://cytoscape.org/).
 
 Expected project size: 175 hour
@@ -81,3 +81,20 @@ Difficulty: easy
 Prerequisites: C#, .Net
 Possible mentor: [Kozo Nishida](https://github.com/kozo2), [Hiroshi Tsugawa](https://github.com/htsugawa)
 
+### Predicting moleculer formula, metabolite class, and structure elucidation using MS-FINDER functions
+
+Brief explanation: MS-FINDER is a partner program of MS-DIAL. MS-FINDER supports the molecular formula, the metabolite class, and the structure predictions for unknown mass spectra. Although MS-FINDER is currently available as an independent program, the functions are implemented in MS-DIAL at this project. The input is the mass spectrum query available in MS-DIAL, and the output is the formula, class, and structure descriptions predicted. [MS-FINDER](http://prime.psc.riken.jp/compms/msfinder/main.html).
+
+Expected project size: 350 hour
+Difficulty: medium
+Prerequisites: C#, .Net
+Possible mentor: [Yuki Matsuzawa](https://github.com/YukiMatsuzawa), [Hiroshi Tsugawa](https://github.com/htsugawa)
+
+### A commandline application of MS-DIAL
+
+Brief explantion: MS-DIAL is a graphical interface program. On the other hand, many users want to use it as a command line tool. The input is mass spectrometry raw data and the output is the metabolome table to be used for statistical analyses. Moreover, for users who want to visualize the data by MS-DIAL, the save format file is also generated from the command line tool as the option.
+
+Expected project size: 350 hour
+Difficulty: medium
+Prerequisites: C#, .Net
+Possible mentor: [Yuki Matsuzawa](https://github.com/YukiMatsuzawa), [Hiroshi Tsugawa](https://github.com/htsugawa)
