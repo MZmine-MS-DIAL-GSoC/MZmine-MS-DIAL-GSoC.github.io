@@ -30,6 +30,8 @@ Please check out Google's [FAQ](https://developers.google.com/open-source/gsoc/f
 
 # Project ideas
 
+Click [here](https://github.com/MZmine-MS-DIAL-GSoC/MZmine-MS-DIAL-GSoC.github.io/discussions) for open discussion of the proejct ideas.
+
 ## Projects mentored by MZmine
 
 ### Molecular networking support
